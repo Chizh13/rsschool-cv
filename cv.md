@@ -7,4 +7,4 @@
 5.
 6. In Java development, completing Tasks is a first step.
 7. Education Higher technical, self-study in Youtube, course Java-developer (passed 1 stage of tasks)
-8. English was studied on online platforms *Doulingo*, *Leo*, where half of the free is covered.
+8. English was studied on online platforms **Doulingo**, **Leo**, where half of the free is covered.
