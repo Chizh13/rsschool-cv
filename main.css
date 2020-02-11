@@ -1,0 +1,86 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, sans-serif;
+
+}
+
+header {
+	height: 700px; /*высота*/
+	background: url("img/first-bg.jpg") no-repeat center top / cover;
+	
+    
+}
+
+div {
+	box-sizing: border-box; /*границы*/
+	
+}
+
+.conteiner {
+	width: 930px;
+    margin: 0 auto;
+    
+}
+
+.logo {
+	margin-top: 41px;
+	float: left; 
+	width: 100px;
+	height: 100px;
+	border-radius: 50px; 
+}
+
+
+.welcome {
+	padding-top: 100px;
+	font-size: 40px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+    
+    
+}
+
+h1 {
+	margin-top: 200px;
+	font-size: 75px;
+	color: #fff;
+	text-transform: uppercase;
+    text-align: center;
+   
+
+}
+
+.foto {
+	width: 320px;
+	height: 380px;
+	padding: 30px;  /*отступ внутри*/
+	padding-bottom: 0;
+}
+
+
+.resume {
+	padding-bottom: 20px;
+	font-size: 20px;
+	
+
+}
+
+q {
+    font-weight: 600;
+}
+
+
+#portfolio {
+	background: #D3D3D3;
+
+}
+
+.face {
+	display: block;
+	margin: auto;
+    text-align: center;
+    
+}
+
